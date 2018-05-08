@@ -1,0 +1,38 @@
+body {
+    background-image: url("/assets/images/background.png");
+    padding-top: 60px;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 90px;
+    text-shadow: 3px 3px #FFF;
+    color: #3970ad;
+}
+
+h3 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 36px;
+    text-shadow: 3px 3px #FFF;
+    color: #000;
+}
+
+h6 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 40px;
+    color: #FFF;
+    margin-top: -10px;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 100%
+}
+
+#scrape {
+    margin: 10px 0px;
+}
